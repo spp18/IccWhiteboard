@@ -1,4 +1,4 @@
 {
-    "appService.defaultWebAppToDeploy": "/subscriptions/b6130552-7d6d-461f-a651-8d584d36511e/AppServices/subscriptions/b6130552-7d6d-461f-a651-8d584d36511e/resourceGroups/privateResGrp/providers/Microsoft.Web/sites/ICCwhiteboard",
-    "appService.deploySubpath": "build"
+    "appService.defaultWebAppToDeploy": "/subscriptions/b6130552-7d6d-461f-a651-8d584d36511e/AppServices/subscriptions/b6130552-7d6d-461f-a651-8d584d36511e/resourceGroups/privateResGrp/providers/Microsoft.Web/sites/IccWhiteboard",
+    "appService.deploySubpath": "."
 }
